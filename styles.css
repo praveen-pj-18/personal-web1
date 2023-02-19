@@ -1,0 +1,138 @@
+.navbar
+{
+    background-color: #2B3A55;
+    margin-bottom: 0px;
+    padding-left: 41%;
+    
+}
+#navbarlist
+{
+    text-align: end;
+    align-items: end;   
+    padding-bottom: 0px;
+    font-family: 'Acme', sans-serif;
+
+    
+}
+.nav-link
+{
+    color: #ECF9FF;
+    margin: 0 10px;
+}
+.top{
+    text-align: center;
+    line-height: 100px;
+    background-image: url("bg-img1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+    font-family: 'Space Mono', monospace;
+    color: aliceblue;
+    font-size: 30px;
+    line-height: 80px;
+
+    padding-top: 180px;
+    padding-bottom: 380px;
+
+}
+#font1
+{
+    font-size: 20px;
+}
+#about
+{
+    /* font-family: 'Labrada', serif; */
+    padding: 50px 28% 50px;
+    /* width: 40%; */
+    text-align: left;
+    font-family: 'Space Mono', monospace;
+    
+    
+}
+#about img
+{
+    width: 25%;
+    text-align: center;
+}
+#about h2{
+    line-height: 45px;
+    
+}
+body
+{
+    margin-top: 0px;
+    margin-left: 00px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+   
+
+}
+.Skills
+{
+  
+   background-color: #2B3A55;
+   background-color: #EB455F;
+   align-items: center;
+   text-align: center;
+   font-family: 'Josefin Sans', sans-serif;
+    color: #fff;
+}
+
+#skills2
+{
+    align-items: center;
+    text-align: left;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+#skills1
+{
+    text-align: end;
+    padding-bottom: 50px;
+}
+
+#img-Skills
+{
+    
+    width: 15%;
+}
+
+.skills img
+{
+    width:30%;
+    padding-bottom: 10px;
+    
+}
+.skills h1{
+    padding-bottom: 20px;
+}
+
+
+
+#js1
+{
+    width: 75%;
+    padding-top: 4px;
+}
+.contact
+{
+    text-align: center;
+    padding: 3% 0% 0%;
+}
+.contact a
+{
+   padding: 0%;   
+}
+
+
+
+@media screen and (max-width: 770px)
+ {
+    .navbar
+    {
+        padding-left: 60%;
+
+    }
+    
+    
+}
